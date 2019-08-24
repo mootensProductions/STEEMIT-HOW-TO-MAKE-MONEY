@@ -45,11 +45,21 @@ If you'd like to skip the queue or stay anonymous, you can pay the account creat
 
 # Get Instant Access*
 * Have to pay some amount of money
+$ ~$1.20 - $4 depending on the service
+
+# MOOTENS.org/shop
+$10 for unique STEEMIT.com account
+- Get your account NOW!
+- Unique Username
+- PDF of all your passwords
+- 3 Steem for powering up
+- STEEMIT Hypermedia Courses Included!
+- HD: Icon, Banner image template included 
 
 # My Friend Has Steemit
 https://steemit.com/news/@timcliff/new-tool-from-busy-org-create-new-steem-blockchain-accounts-with-steemconnect
 
-
+$ 3 STEEM (current price is ~$0.18 per STEEM)
 ---
 
 # STEEMIT Navigation
@@ -83,7 +93,7 @@ https://steemit.com/news/@timcliff/new-tool-from-busy-org-create-new-steem-block
 
 - Choose Language
 - Profile picture url
-- COver image url
+- Cover image url
 - Display Name
 - About
 - Location
